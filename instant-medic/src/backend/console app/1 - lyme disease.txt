@@ -1,0 +1,4 @@
+Name: John Doe
+DOB: 01/02/2003
+Description:
+Patient experienced a fever with a lot of chills. Sometimes, a headache would last the entire day. Fatigue occurs to the muscles and joints. Reddish rashes, most likely due to swollen lymph nodes, are found around the armpits and upper back.
