@@ -1,0 +1,135 @@
+Disease,Disease Code,Count of Disease Occurrence
+hypertensive disease,C0020538,3363
+diabetes,C0011847,1421
+depressive disorder,C0011570,1337
+coronary heart disease,C0010054,1284
+pneumonia,C0032285,1029
+failure heart congestive,C0018802,963
+accident cerebrovascular,C0038454,885
+asthma,C0004096,835
+myocardial infarction,C0027051,759
+hypercholesterolemia,C0020443,685
+infection,C0021311,630
+infection urinary tract,C0042029,597
+anemia,C0002871,544
+chronic obstructive airway disease,C0024117,524
+dementia,C0497327,504
+insufficiency renal,C1565489,445
+confusion,C0009676,408
+degenerative polyarthritis,C0029408,405
+hypothyroidism,C0020676,398
+anxiety state,C0700613,390
+primary malignant neoplasm,C0006826,354
+hiv infections,C0001175,350
+cellulitis,C0007642,341
+gastroesophageal reflux disease,C0017168,325
+sepsis (invertebrate),C0036690,311
+deep vein thrombosis,C0149871,310
+dehydration,C0011175,297
+neoplasm,C0027651,297
+embolism pulmonary,C0034065,294
+epilepsy,C0014544,290
+cardiomyopathy,C0878544,283
+chronic kidney failure,C0022661,280
+carcinoma,C0007097,269
+hepatitis C,C0019196,269
+peripheral vascular disease,C0085096,268
+psychotic disorder,C0033975,267
+hyperlipidemia,C0020473,247
+bipolar disorder,C0005586,241
+obesity,C0028754,228
+ischemia,C0022116,226
+cirrhosis,C1623038,218
+exanthema,C0015230,208
+benign prostatic hypertrophy,C0005001,192
+kidney failure acute,C0022660,186
+mitral valve insufficiency,C0026266,186
+arthritis,C0003864,179
+bronchitis,C0006277,172
+hemiparesis,C0018989,171
+osteoporosis,C0029456,169
+transient ischemic attack,C0007787,168
+adenocarcinoma,C0001418,166
+paranoia,C1456784,165
+pancreatitis,C0030305,165
+incontinence,C0021167,16
+paroxysmal dyspnea,C0013405,165
+hernia,C0019270,164
+carcinoma prostate,C0376358,163
+edema pulmonary,C0034063,161
+lymphatic diseases,C0024228,160
+stenosis aortic valve,C0003507,158
+carcinoma breast,C0006142,152
+schizophrenia,C0036341,147
+diverticulitis,C0012813,145
+overload fluid,C0546817,144
+ulcer peptic,C0030920,143
+osteomyelitis,C0029443,142
+gastritis,C0017152,140
+bacteremia,C0004610,142
+failure kidney,C0035078,140
+sickle cell anemia,C0002895,140
+failure heart,C0018801,138
+upper respiratory infection,C0041912,135
+hepatitis,C0019158,133
+hypertension pulmonary,C0020542,128
+deglutition disorder,C0011168,126
+gout,C0018099,124
+thrombocytopaenia,C0040034,123
+hypoglycemia,C0020615,122
+pneumonia aspiration,C0032290,119
+colitis,C0009319,114
+diverticulosis,C1510475,114
+suicide attempt,C0038663,114
+Pneumocystis carinii pneumonia,C0032305,113
+hepatitis B,C0019163,111
+parkinson disease,C0030567,108
+lymphoma,C0024299,105
+hyperglycemia,C0020456,104
+encephalopathy,C0085584,103
+tricuspid valve insufficiency,C0040961,101
+Alzheimer's disease,C0002395,101
+oral candidiasis,C0006840,99
+neuropathy,C0442874,99
+kidney disease,C0022658,96
+fibroid tumor,C0023267,96
+glaucoma,C0017601,95
+neoplasm metastasis,C0027627,94
+carcinoma colon,C0007102,94
+ketoacidosis diabetic ,C0011880,93
+tonic-clonic seizures,C0014549,92
+malignant neoplasms,C0006826,90
+respiratory failure,C1145670,90
+melanoma,C0025202,87
+gastroenteritis,C0017160,87
+carcinoma of lung,C0242379,86
+manic disorder,C0024713,85
+personality disorder,C0031212,84
+primary carcinoma of the liver cells,C0019204,82
+emphysema pulmonary,C0034067,80
+hemorrhoids,C0019112,80
+spasm bronchial,C0006266,76
+aphasia,C0003537,76
+obesity morbid,C0028756,76
+pyelonephritis,C0034186,74
+endocarditis,C0014118,71
+pericardial effusion body substance,C0031039,71
+chronic alcoholic intoxication,C0001973,70
+pneumothorax,C0032326,68
+delirium,C0011206,68
+neutropenia,C0027947,68
+hyperbilirubinemia,C0020433,68
+influenza,C0021400,68
+dependence,C0439857,67
+thrombus,C0087086,67
+cholecystitis,C0008325,66
+hernia hiatal,C0019291,61
+migraine disorders,C0149931,61
+pancytopenia,C0030312,61
+biliary calculus,C0008350,61
+tachycardia sinus,C0039239,56
+ileus,C1258215,56
+adhesion,C0001511,57
+delusion,C0011253,56
+affect labile,C0233472,45
+decubitus ulcer,C0011127,42
